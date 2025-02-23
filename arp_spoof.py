@@ -5,11 +5,6 @@ import uuid
 import sys
 import random
 
-ip_tele = '192.168.50.106'
-
-#argv[1]
-#ip_puerta_enlace = "192.168.100.1"
-
 mac_atacante = ":".join(f"{random.randint(0x00, 0xFF):02x}" for _ in range(6))
 
 ataque = False
