@@ -1,5 +1,4 @@
-# spoofing-tool
-Linux | python-developed ARP spoofing tool
+# python-developed ARP spoofing tool
 
 This is a python - developed ARP spoofing tool
 
